@@ -169,7 +169,6 @@
   margin-top: 60px;
   display: flex;
   flex-direction: column;
-  min-height: 142px;
 }
 
 .table__heading {
