@@ -1,10 +1,10 @@
-# Проектная работа 2 ⭐ (завершен)
+# Проектная работа 2 ⭐
 
 
 ## О работе
 
 
-Цель второй проектной работы приминить норвые навыки.
+### Цель второй проектной работы приминить норвые навыки:
 
 
 + организовать файловую структуру БЭМ Nested
@@ -18,4 +18,10 @@
 ![css](https://img.shields.io/badge/-CSS3-090909?style=flat&logo=css3)
 ![html](https://img.shields.io/badge/-HTML5-090909?style=flat&logo=html5)
 ![git](https://img.shields.io/badge/-git-090909?style=flat&logo=git)
+
+### Статус:
+
+
+Завершен
+
 
